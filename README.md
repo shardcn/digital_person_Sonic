@@ -21,6 +21,7 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation, CVPR 202
 
 
 ## 🔥🔥🔥 NEWS
+**`2025/05/06`**: We have open-sourced [**​​DICE-Talk**](https://github.com/toto222/DICE-Talk)​​, a portrait-driven system with emotional expression. Welcome to try it out!
 
 **`2025/03/14`**: Super stoked to share that our Sonic is accpted by the CVPR 2025! See you Nashville!!
 
