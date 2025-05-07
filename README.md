@@ -125,6 +125,13 @@ If you find our work helpful for your research, please consider citing our work.
   journal={arXiv preprint arXiv:2406.18284},
   year={2024}
 }
+
+@article{tan2025dicetalk,
+  title={Disentangle Identity, Cooperate Emotion: Correlation-Aware Emotional Talking Portrait Generation}, 
+  author={Tan, Weipeng and Lin, Chuming and Xu, Chengming and Xu, FeiFan and Hu, Xiaobin and Ji, Xiaozhong and Zhu, Junwei and Wang, Chengjie and Fu, Yanwei},
+  journal={arXiv preprint arXiv:2504.18087},
+  year={2025}
+}
 ```
 
 ## 📜 Related Works
