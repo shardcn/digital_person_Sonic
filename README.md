@@ -15,7 +15,7 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation, CVPR 202
   </a>
 
 <p align="center">
-    👋 Join our <a href="examples/image/QQ.png" target="_blank">QQ Chat Group</a> 
+    👋 Join our <a href="examples/image/QQ2.jpg" target="_blank">QQ Chat Group</a> 
 </p>
 <p align="center">
 
