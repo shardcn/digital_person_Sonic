@@ -112,11 +112,12 @@ or manully download [pretrain model](https://drive.google.com/drive/folders/1oe8
 If you find our work helpful for your research, please consider citing our work.   
 
 ```bibtex
-@article{ji2024sonic,
-  title={Sonic: Shifting Focus to Global Audio Perception in Portrait Animation},
+@inproceedings{ji2025sonic,
+  title={Sonic: Shifting focus to global audio perception in portrait animation},
   author={Ji, Xiaozhong and Hu, Xiaobin and Xu, Zhihong and Zhu, Junwei and Lin, Chuming and He, Qingdong and Zhang, Jiangning and Luo, Donghao and Chen, Yi and Lin, Qin and others},
-  journal={arXiv preprint arXiv:2411.16331},
-  year={2024}
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={193--203},
+  year={2025}
 }
 
 @article{ji2024realtalk,
