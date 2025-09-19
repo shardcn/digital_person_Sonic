@@ -165,17 +165,17 @@ class Sonic():
         audio2bucket_checkpoint_path = os.path.join(BASE_DIR, config.audio2bucket_checkpoint_path)
 
         unet.load_state_dict(
-            torch.load(unet_checkpoint_path, map_location="cpu"),
+            torch.load(unet_checkpoint_path, map_location="mps"),
             strict=True,
         )
         
         audio2token.load_state_dict(
-            torch.load(audio2token_checkpoint_path, map_location="cpu"),
+            torch.load(audio2token_checkpoint_path, map_location="mps"),
             strict=True,
         )
 
         audio2bucket.load_state_dict(
-            torch.load(audio2bucket_checkpoint_path, map_location="cpu"),
+            torch.load(audio2bucket_checkpoint_path, map_location="mps"),
             strict=True,
         )
         

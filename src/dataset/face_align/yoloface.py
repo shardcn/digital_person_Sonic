@@ -217,7 +217,7 @@ class YoloFace():
         self.inpSize = 416
         self.conf_thres = confThreshold
         self.iou_thres = nmsThreshold
-        self.test_device = torch.device(device if torch.cuda.is_available() else "cpu")
+        self.test_device = torch.device(device if torch.cuda.is_available() else "mps")
         self.model = torch.jit.load(pt_path).to(self.test_device)
         self.last_w = 416
         self.last_h = 416
