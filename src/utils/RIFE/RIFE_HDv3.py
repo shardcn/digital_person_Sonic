@@ -5,7 +5,7 @@ import torch.nn.functional as F
 class RIFEModel:
     def __init__(self, device=None):
         if device is None:
-            self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+            self.device = torch.device("cuda" if torch.cuda.is_available() else "mps")
         else:
             self.device = device
         self.flownet = IFNet().to(self.device).eval()
