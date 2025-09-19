@@ -17,5 +17,6 @@ python demo.py \
 'examples/wav/sing_female.wav' \
 'examples/results/anime1-sing_female.mp4'
 
+
 ## web界面
 python3 gradio_app.py
